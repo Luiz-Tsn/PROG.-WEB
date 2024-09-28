@@ -93,7 +93,7 @@ li{
     padding-bottom: 18px;
 
 }
-#imagem{
+.imagem{
     
     background-image: url(../img/voa.jpg);
     height: 6300px;
